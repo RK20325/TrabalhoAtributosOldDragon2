@@ -1,6 +1,6 @@
 from distribui import Classico, Heroico, Aventureiro
 from raca import Humano, Anao, Elfo
-from classe import Guerreiro, Mago, Ladino
+from classes import Guerreiro, Mago, Ladino
 from personagem import Personagem
 
 def escolher_distribuidor():
